@@ -10,8 +10,11 @@ Continuous integration involves frequent additions and alterations to a larger c
 The use of CI/CD in your development workflow is highly beneficial. It helps to improve workflow by allowing many people to work on the same codebase at the same time. It also helps in minimising errors and bugs in your codebase, as small snippets of code are reviewed each time before being sent to a test environment, and then into production.
 
 Some of the tools used for CI/CD:
+
 Docker - containerisation platform used for building, deploying, and running containers
+
 Kurbernetes - orchestrates container systems (can be used with or without Docker)
+
 Jenkins - open source automation platform for building, testing, and deploying code
 
 
